@@ -5,6 +5,8 @@ Two models were implemented and compared:
 * Linear Regression
 * Random Forest Regressor
 
+NOTE: This notebook was developed and executed using Google Colab.
+
 ---
 
 ## Problem Statement
