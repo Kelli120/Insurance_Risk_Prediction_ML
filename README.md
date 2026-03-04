@@ -80,6 +80,7 @@ Machine learning approaches provide measurable value over traditional linear tec
 ## Dataset Source
 The dataset used in this project was obtained from Kaggle:
 "Medical Cost Personal Dataset"
+https://www.kaggle.com/code/mragpavank/medical-cost-personal-datasets/notebook
 
 The dataset includes demographic and health-related attributes used to predict insurance charges.
 
